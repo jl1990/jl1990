@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Juanlu. Hello, world.</title>
+  <desc id="desc">Software development, machine learning, security and performance. A neural network and a rising performance trace on a dark blue background.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#0F172A"/><stop offset=".54" stop-color="#151B38"/><stop offset="1" stop-color="#25204D"/></linearGradient>
+    <linearGradient id="accent" x1="50" y1="0" x2="1150" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8F9"/><stop offset=".5" stop-color="#818CF8"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#A5B4FC" opacity=".13"/></pattern>
+    <radialGradient id="halo"><stop stop-color="#6366F1" stop-opacity=".25"/><stop offset="1" stop-color="#6366F1" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <ellipse cx="970" cy="135" rx="260" ry="220" fill="url(#halo)"/>
+  <rect x="48" y="44" width="4" height="18" rx="2" fill="#67E8F9"/>
+  <text x="66" y="58" fill="#A5B4FC" font-family="Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3">JUANLU / jl1990</text>
+  <text x="46" y="155" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.5">Hello, <tspan fill="url(#accent)">world.</tspan></text>
+  <text x="49" y="203" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="16">Software development · Machine learning · Security · Performance</text>
+  <g stroke="#818CF8" stroke-opacity=".4" stroke-width="1.5">
+    <path d="M832 82L932 58M832 82L932 132M832 82L932 206M832 154L932 58M832 154L932 132M832 154L932 206M832 226L932 58M832 226L932 132M832 226L932 206M932 58L1032 100M932 58L1032 182M932 132L1032 100M932 132L1032 182M932 206L1032 100M932 206L1032 182M1032 100L1124 141M1032 182L1124 141"/>
+  </g>
+  <g fill="#151B38" stroke="#A5B4FC" stroke-width="2"><circle cx="832" cy="82" r="8"/><circle cx="832" cy="154" r="8"/><circle cx="832" cy="226" r="8"/><circle cx="932" cy="58" r="9"/><circle cx="932" cy="132" r="9"/><circle cx="932" cy="206" r="9"/><circle cx="1032" cy="100" r="10"/><circle cx="1032" cy="182" r="10"/></g>
+  <circle cx="932" cy="132" r="4" fill="#67E8F9"/>
+  <circle cx="1124" cy="141" r="12" fill="#67E8F9"/>
+  <path d="M800 265H848L869 253H905L925 240H973L1000 225H1036L1064 204H1130" stroke="#67E8F9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".7"/>
+  <path d="M48 276H1152" stroke="url(#accent)" stroke-opacity=".35"/>
+</svg>
